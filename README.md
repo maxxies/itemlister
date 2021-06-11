@@ -1,2 +1,3 @@
 # itemlister
-Created to list items to do or to save them.
+
+This is a small To-Do web which takes things or tasks to be done
